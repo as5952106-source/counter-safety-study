@@ -1,4 +1,8 @@
-# thesis-formalization
+# counter-safety-study
+
+Adapted from [qritwik/thesis-formalization](https://github.com/qritwik/thesis-formalization).
+Original commit history is preserved. This repository is a downstream edition
+of the same project.
 
 Demonstration thesis: safety of a bounded counter under arbitrarily many transitions.
 

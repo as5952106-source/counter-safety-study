@@ -1,0 +1,12 @@
+name = "thesis-formalization"
+version = "0.1.0"
+defaultTargets = ["ThesisFormalization", "ThesisFormalizationTests"]
+
+[leanOptions]
+warningAsError = true
+
+[[lean_lib]]
+name = "ThesisFormalization"
+
+[[lean_lib]]
+name = "ThesisFormalizationTests"
